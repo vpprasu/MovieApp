@@ -1,0 +1,5 @@
+{
+    "apiKey": "f3d017cf1142262f0f6e80aeeb42c8ac",
+    "baseUrl": "https://api.themoviedb.org/3",
+    "imageBasePath": "https://image.tmdb.org/t/p/w500"
+}
